@@ -1,0 +1,39 @@
+2018/11/10 19:23:41 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2018/11/10 19:23:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/11/10 19:23:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/11/10 19:23:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/11/10 19:23:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/11/10 19:23:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2018/11/10 19:23:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2018/11/10 19:23:41 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
+2018/11/10 19:23:43 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2018/11/10 19:23:43 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2018/11/10 19:23:43 INFO  - jmeter.save.SaveService: Using SaveService properties version 5.0 
+2018/11/10 19:23:43 WARN  - jmeter.save.SaveService: Bad _version - expected 2.3, found 5.0. 
+2018/11/10 19:23:43 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2018/11/10 19:23:43 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2018/11/10 19:23:43 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2018/11/10 19:23:43 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2018/11/10 19:23:43 WARN  - jmeter.engine.util.CompoundVariable: Did not find any functions 
+2018/11/10 19:23:43 INFO  - jmeter.services.FileServer: Default base='/Users/via/Downloads/jmeter' 
+2018/11/10 19:23:43 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Sample Thread Group 
+2018/11/10 19:23:43 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Sample Thread Group. 
+2018/11/10 19:23:43 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2018/11/10 19:23:43 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2018/11/10 19:23:43 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2018/11/10 19:23:43 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2018/11/10 19:23:43 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2018/11/10 19:23:43 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2018/11/10 19:23:43 INFO  - jmeter.threads.JMeterThread: Thread started: Sample Thread Group 1-1 
+2018/11/10 19:23:43 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = UMESH-MBP 
+2018/11/10 19:23:43 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 1 
+2018/11/10 19:23:44 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2018/11/10 19:23:44 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2018/11/10 19:23:44 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2018/11/10 19:23:44 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2018/11/10 19:23:44 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2018/11/10 19:23:44 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2018/11/10 19:23:44 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2018/11/10 19:23:44 INFO  - jmeter.threads.JMeterThread: Thread finished: Sample Thread Group 1-1 
+2018/11/10 19:23:44 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2018/11/10 19:23:44 INFO  - jmeter.reporters.Summariser: summary =      2 in   0.2s =    8.6/s Avg:   232 Min:   232 Max:   232 Err:     0 (0.00%) 

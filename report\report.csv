@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1601" lt="1599" ts="1541857725313" s="true" lb="Open uttesh.com" rc="200" rm="OK" tn="Sample Thread Group 1-1" dt="text" by="19165"/>
+
+<httpSample t="232" lt="218" ts="1541858024080" s="true" lb="Open uttesh.com" rc="200" rm="OK" tn="Sample Thread Group 1-1" dt="text" by="19165"/>
+
+</testResults>
